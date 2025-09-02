@@ -175,4 +175,5 @@ INSERT INTO STARSIN
   VALUES ('Terms of Endearment', 1983, 'Jack Nicholson');
 
 INSERT INTO STARSIN
+
   VALUES ('The Usual Suspects', 1995, 'Sandra Bullock')
