@@ -1,0 +1,5 @@
+Write a request which finds the movie title and year of all movies longer than 2 hours, whose producer's networth is between 100M and 200M USD.
+Write a query which returns a list of producers, who either haven't produced a single movie or have only produced movies less than 90 minutes long. For each of them, show their name, number of produced movies and average length of the movies (if any).
+Write a query which increases the length of all movies, which have a studio, but have no stars, with 10 minutes.
+Create a view which, for every movie star, shows a name, number of movies they play in and average length of these movies.
+Write a trigger which, upon adding a new movie, checks its length and if it's less than 30 minutes, makes it equal to 30 minutes.
